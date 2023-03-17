@@ -12,7 +12,7 @@ The 'Fast' mode ensures that the whole pipeline runs under 2 seconds on CPU, whi
 
  The four stages of the pipeline are as follows:
 
-[![url](https://github.com/Umang1815/CloudPhysician-s-Vital-Extraction-Challenge/blob/main/pipeline.png)
+![Pipeline](https://github.com/Umang1815/CloudPhysician-s-Vital-Extraction-Challenge/blob/main/pipeline.png)
 
 
 
