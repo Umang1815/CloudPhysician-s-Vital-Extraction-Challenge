@@ -132,6 +132,9 @@ After getting all the bounding boxes around the numbers in the image, we use Opt
 # Number Classification
 
 This task consists of classifying all the numbers detected by OCR into their respective classes. To implement this task, we have made **CRABBNet (Custom Recognition Assisted Bounding Box classification Network)**.  
+
+![CRABBNET Architecture](https://github.com/Umang1815/CloudPhysician-s-Vital-Extraction-Challenge/blob/main/crabbnet.PNG)
+
   CRABBNet takes 3 inputs, a 4-channel Image, all numbers on the screen, and the target number which needs to be classified. 
 
   The working of CRABBNet is explained below:
